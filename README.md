@@ -23,3 +23,17 @@ The goal of this project is to assist in identifying potential vulnerabilities i
 Clone the repository to get started:
 ```bash
 git clone https://github.com/yourusername/Penetration-Testing.git
+```
+
+### Running Tests
+To run the penetration testing scripts, follow the instructions for each individual script in the `scripts/` folder. For example:
+```bash
+cd scripts
+bash nmap_scan.sh
+```
+
+## Contributing
+If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
